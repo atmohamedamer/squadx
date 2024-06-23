@@ -65,28 +65,13 @@ const config: Config = {
       },
       items: [
         {
-          to: '/docs/aria',
-          label: 'Aria',
+          to: '/docs/squad',
+          label: 'Squad',
           position: 'left',
         },
         {
-          to: '/docs/galal',
-          label: 'Galal',
-          position: 'left',
-        },
-        {
-          to: '/docs/lucas',
-          label: 'Lucas',
-          position: 'left',
-        },
-        {
-          to: '/docs/mei',
-          label: 'Mei',
-          position: 'left',
-        },
-        {
-          to: '/docs/sofia',
-          label: 'Sofia',
+          to: '/docs/secrets',
+          label: 'Secrets',
           position: 'left',
         },
         {
