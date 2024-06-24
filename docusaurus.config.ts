@@ -70,11 +70,6 @@ const config: Config = {
           position: 'left',
         },
         {
-          to: '/docs/secrets',
-          label: 'Secrets',
-          position: 'left',
-        },
-        {
           href: 'https://github.com/atmohamedamer/squadx',
           label: 'GitHub',
           position: 'right',

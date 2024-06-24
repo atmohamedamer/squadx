@@ -20,6 +20,10 @@ slug: lucas
 
 ## Bio
 
+Full-stack developer crafting scalable applications. Enthusiast of cloud computing and DevOps.
+
+## About
+
 Hi, I'm Lucas! I'm a full-stack software engineer with expertise in developing scalable applications. I have experience working with various cloud platforms and implementing CI/CD pipelines. I'm known for my ability to build robust and efficient software solutions that meet the needs of modern businesses. My passion for technology drives me to stay updated with the latest trends and continuously improve my skills.
 
 ## Social Metadata

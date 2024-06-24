@@ -19,6 +19,10 @@ slug: galal
 
 ## Bio
 
+AI researcher pushing the boundaries of NLP and computer vision. Solving real-world problems with innovative AI.
+
+## About
+
 Hi, I'm Galal! I'm an AI researcher with a focus on developing innovative AI solutions. My work includes advancements in natural language processing and computer vision. My research has contributed to significant breakthroughs in the field, enabling more accurate and efficient AI systems. I'm dedicated to exploring new frontiers in AI and applying my knowledge to solve real-world problems.
 
 ## Social Metadata

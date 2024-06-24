@@ -19,6 +19,10 @@ slug: juan
 
 ## Bio
 
+Web3 developer exploring the potential of blockchain and decentralized applications. Building the future of Ethereum.
+
+## About
+
 Hi, I'm Juan! I'm a web3 developer with a strong background in building decentralized applications on the Ethereum platform. I enjoy exploring the potential of blockchain technology and developing solutions that leverage its unique capabilities. My goal is to contribute to the growth and adoption of web3 technologies.
 
 ## Social Metadata

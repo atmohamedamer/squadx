@@ -19,6 +19,10 @@ slug: mei
 
 ## Bio
 
+Product manager turning ideas into successful products. Expert in strategic planning and agile methodologies.
+
+## About
+
 Hi, I'm Mei! I'm an experienced product manager with a knack for turning ideas into successful products. I excel in strategic planning and agile project management. My ability to lead cross-functional teams and my expertise in market analysis make me a valuable asset to any project. I'm passionate about creating products that meet user needs and drive business growth.
 
 ## Social Metadata

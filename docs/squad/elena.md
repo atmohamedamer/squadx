@@ -19,6 +19,10 @@ slug: elena
 
 ## Bio
 
+Senior web3 developer at the forefront of blockchain technology and smart contracts. Driving innovation in decentralized applications.
+
+## About
+
 Hi, I'm Elena! I'm a senior web3 developer specializing in blockchain technology and smart contract development. With extensive experience in Solidity and decentralized applications, I have been at the forefront of developing innovative blockchain solutions. I'm passionate about the potential of web3 technologies to transform industries and create new opportunities.
 
 ## Social Metadata

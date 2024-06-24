@@ -19,6 +19,10 @@ slug: aisha
 
 ## Bio
 
+Junior web3 developer passionate about blockchain and smart contracts. Eager to innovate in the decentralized space.
+
+## About
+
 Hi, I'm Aisha! I'm a junior web3 developer with a keen interest in blockchain technology and smart contract development. I've been learning and building projects in the web3 space, and I'm excited about the future of decentralized applications. I'm eager to continue growing my skills and contributing to innovative web3 solutions.
 
 ## Social Metadata

@@ -19,6 +19,10 @@ slug: sofia
 
 ## Bio
 
+Creative UX/UI designer focused on intuitive and engaging user experiences. Merging beauty with functionality.
+
+## About
+
 Hi, I'm Sofia! I'm a creative UX/UI designer with a passion for creating intuitive and engaging user experiences. I have a strong background in graphic design and user-centered design principles. My ability to translate user needs into beautiful and functional designs makes me an invaluable part of any project. I'm dedicated to improving the usability and aesthetics of digital products.
 
 ## Social Metadata

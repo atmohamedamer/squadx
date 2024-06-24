@@ -19,6 +19,10 @@ slug: aria
 
 ## Bio
 
+Data scientist with a passion for big data and machine learning. Turning complex data into actionable insights.
+
+## About
+
 Hi, I'm Aria! I'm a seasoned data scientist with a strong background in computer science and applied mathematics. I have worked on various projects involving predictive analytics and big data. My expertise lies in developing machine learning models and conducting complex statistical analyses to uncover insights from large datasets. I am passionate about leveraging data to drive decision-making and innovation.
 
 ## Social Metadata
