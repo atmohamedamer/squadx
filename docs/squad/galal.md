@@ -7,14 +7,15 @@ slug: galal
 
 # Galal Essam
 
-![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
+![Static Badge](https://img.shields.io/badge/Ready-yes)
 
-<img src="/img/galal-essam.jpeg" width="350" />
+<img src="/img/galal-essam.jpeg" class="avatar__photo avatar__photo--xl" />
 
 **Date of Birth**: 5 Nov 1985  
 **Origin:** Egypt  
 **Role:** AI Researcher  
 **Skills:** Natural Language Processing, Deep Learning, Computer Vision  
+**Last Company:** AI Innovations
 
 ## Bio
 
@@ -22,7 +23,9 @@ Hi, I'm Galal! I'm an AI researcher with a focus on developing innovative AI sol
 
 ## Social Metadata
 
-- **Gmail**: galalessam85@gmail.com
-- **LinkedIn:** [linkedin.com/in/ahmedelsayed](https://linkedin.com/in/ahmedelsayed)
-- **GitHub:** [github.com/ahmedelsayed](https://github.com/ahmedelsayed)
-- **Twitter:** [twitter.com/ahmed_ai](https://twitter.com/ahmed_ai)
+- **Gmail**: galalessam511@gmail.com
+- **LinkedIn:** [linkedin.com/in/galal-essam-0117b3315](https://www.linkedin.com/in/galal-essam-0117b3315/)
+- **GitHub:** [github.com/galalessam](https://github.com/galalessam)
+- **Twitter:** [twitter.com/galalessam511](https://twitter.com/galalessam511)
+- **Reddit:** [u/Severe-Commercial401](https://www.reddit.com/user/Severe-Commercial401)
+- **Medium:** [@galalessam511](https://medium.com/@galalessam511)

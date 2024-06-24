@@ -9,13 +9,14 @@ slug: lucas
 
 ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
 
-<img src="/img/lucas-muller.jpeg" width="350" />
+<img src="/img/lucas-muller.jpeg" class="avatar__photo avatar__photo--xl" />
 
 
 **Date of Birth**: 22 Mar 1988  
 **Origin:** Germany  
 **Role:** Software Engineer  
 **Skills:** Full-Stack Development, Cloud Computing, DevOps  
+**Last Company:** TechSolutions
 
 ## Bio
 

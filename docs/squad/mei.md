@@ -9,12 +9,13 @@ slug: mei
 
 ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
 
-<img src="/img/mei-wong.jpeg" width="350" />
+<img src="/img/mei-wong.jpeg" class="avatar__photo avatar__photo--xl" />
 
 **Date of Birth**: 18 Apr 1991  
 **Origin:** China  
 **Role:** Product Manager  
 **Skills:** Project Management, Agile Methodologies, Strategic Planning  
+**Last Company:** MarketMasters
 
 ## Bio
 

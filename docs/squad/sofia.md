@@ -9,12 +9,13 @@ slug: sofia
 
 ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
 
-<img src="/img/sofia-rodriguez.jpeg" width="350" />
+<img src="/img/sofia-rodriguez.jpeg" class="avatar__photo avatar__photo--xl" />
 
 **Date of Birth**: 9 Jul 1992  
 **Origin:** Spain  
 **Role:** UX/UI Designer  
 **Skills:** User Research, Interface Design, Prototyping  
+**Last Company:** DesignHub
 
 ## Bio
 
