@@ -7,6 +7,7 @@ slug: aisha
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 
 # Aisha Mohammed
 
@@ -48,6 +49,8 @@ Hi, I'm Aisha! I'm a junior web3 developer with a keen interest in blockchain te
 Coming soon...
 
 :::
+
+<Chat />
 
 </TabItem>
 </Tabs>
