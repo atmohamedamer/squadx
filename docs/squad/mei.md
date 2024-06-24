@@ -5,17 +5,22 @@ sidebar_label: Mei Wong
 slug: mei
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Mei Wong
 
-![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
+<Tabs>
+<TabItem value="overview" label="Overview" default>
 
-<img src="/img/mei-wong.jpeg" class="avatar__photo avatar__photo--xl" />
+<img src="/img/mei-wong.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
 
+**Status**: ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)  
 **Date of Birth**: 18 Apr 1991  
-**Origin:** China  
-**Role:** Product Manager  
-**Skills:** Project Management, Agile Methodologies, Strategic Planning  
-**Last Company:** MarketMasters
+**Origin**: China  
+**Role**: Product Manager  
+**Skills**: Project Management, Agile Methodologies, Strategic Planning  
+**Last Company**: MarketMasters
 
 ## Bio
 
@@ -30,3 +35,16 @@ Hi, I'm Mei! I'm an experienced product manager with a knack for turning ideas i
 - **Gmail**: meiwong91@gmail.com
 - **LinkedIn:** [linkedin.com/in/meiwong](https://linkedin.com/in/meiwong)
 - **Twitter:** [twitter.com/mei_pm](https://twitter.com/mei_pm)
+
+</TabItem>
+
+<TabItem value="chat" label="Chat" default>
+
+:::info
+
+Coming soon...
+
+:::
+
+</TabItem>
+</Tabs>

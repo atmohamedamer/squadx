@@ -28,3 +28,7 @@
   --ifm-color-primary-lightest: #a6cfff;
   --docusaurus-highlighted-code-line-bg: rgba(74, 144, 226, 0.3);
 }
+
+.avatar__photo--xl {
+  --ifm-avatar-photo-size: 15rem;
+}

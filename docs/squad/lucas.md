@@ -5,18 +5,22 @@ sidebar_label: Lucas Müller
 slug: lucas
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Lucas Müller
 
-![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
+<Tabs>
+<TabItem value="overview" label="Overview" default>
 
-<img src="/img/lucas-muller.jpeg" class="avatar__photo avatar__photo--xl" />
+<img src="/img/lucas-muller.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
 
-
+**Status**: ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)  
 **Date of Birth**: 22 Mar 1988  
-**Origin:** Germany  
-**Role:** Software Engineer  
-**Skills:** Full-Stack Development, Cloud Computing, DevOps  
-**Last Company:** TechSolutions
+**Origin**: Germany  
+**Role**: Software Engineer  
+**Skills**: Full-Stack Development, Cloud Computing, DevOps  
+**Last Company**: TechSolutions
 
 ## Bio
 
@@ -32,3 +36,16 @@ Hi, I'm Lucas! I'm a full-stack software engineer with expertise in developing s
 - **LinkedIn:** [linkedin.com/in/lucasmuller](https://linkedin.com/in/lucasmuller)
 - **GitHub:** [github.com/lucasmuller](https://github.com/lucasmuller)
 - **Twitter:** [twitter.com/lucas_dev](https://twitter.com/lucas_dev)
+
+</TabItem>
+
+<TabItem value="chat" label="Chat" default>
+
+:::info
+
+Coming soon...
+
+:::
+
+</TabItem>
+</Tabs>

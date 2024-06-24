@@ -6,9 +6,10 @@ type Member = {
     name: string;
     image: string;
     role: string;
-};
+};  
 
 type SquadProps = {
+    col?: string;
 };
 
 const members: Member[] = [
@@ -62,12 +63,12 @@ const members: Member[] = [
     },
 ];
 
-const Squad: React.FC<SquadProps> = () => {
+const Squad: React.FC<SquadProps> = ({ col=3 }) => {
     return (
         <div className="container">
             <div className="row">
                 {members.map((member) => (
-                    <div className="col col--3" key={member.name}>
+                    <div className={`col col--${col}`} key={member.name}>
                         <SquadMember {...member} />
                     </div>
                 ))}

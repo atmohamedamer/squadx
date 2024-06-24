@@ -5,17 +5,22 @@ sidebar_label: Sofia Rodriguez
 slug: sofia
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Sofia Rodriguez
 
-![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)
+<Tabs>
+<TabItem value="overview" label="Overview" default>
 
-<img src="/img/sofia-rodriguez.jpeg" class="avatar__photo avatar__photo--xl" />
+<img src="/img/sofia-rodriguez.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
 
+**Status**: ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)  
 **Date of Birth**: 9 Jul 1992  
-**Origin:** Spain  
-**Role:** UX/UI Designer  
-**Skills:** User Research, Interface Design, Prototyping  
-**Last Company:** DesignHub
+**Origin**: Spain  
+**Role**: UX/UI Designer  
+**Skills**: User Research, Interface Design, Prototyping  
+**Last Company**: DesignHub
 
 ## Bio
 
@@ -31,3 +36,16 @@ Hi, I'm Sofia! I'm a creative UX/UI designer with a passion for creating intuiti
 - **LinkedIn:** [linkedin.com/in/sofiarodriguez](https://linkedin.com/in/sofiarodriguez)
 - **Dribbble:** [dribbble.com/sofiarodriguez](https://dribbble.com/sofiarodriguez)
 - **Twitter:** [twitter.com/sofia_designs](https://twitter.com/sofia_designs)
+
+</TabItem>
+
+<TabItem value="chat" label="Chat" default>
+
+:::info
+
+Coming soon...
+
+:::
+
+</TabItem>
+</Tabs>

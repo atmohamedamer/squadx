@@ -6,4 +6,4 @@ import Squad from "@site/src/components/Squad";
 
 # Squad
 
-<Squad />
+<Squad col="4" />

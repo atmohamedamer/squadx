@@ -5,17 +5,22 @@ sidebar_label: Galal Essam
 slug: galal
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Galal Essam
 
-![Static Badge](https://img.shields.io/badge/Ready-yes)
+<Tabs>
+<TabItem value="overview" label="Overview" default>
 
-<img src="/img/galal-essam.jpeg" class="avatar__photo avatar__photo--xl" />
+<img src="/img/galal-essam.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
 
+**Status**: ![Static Badge](https://img.shields.io/badge/Ready-yes?color=0000ff)  
 **Date of Birth**: 5 Nov 1985  
-**Origin:** Egypt  
-**Role:** AI Researcher  
-**Skills:** Natural Language Processing, Deep Learning, Computer Vision  
-**Last Company:** AI Innovations
+**Origin**: Egypt  
+**Role**: AI Researcher  
+**Skills**: Natural Language Processing, Deep Learning, Computer Vision  
+**Last Company**: AI Innovations
 
 ## Bio
 
@@ -27,9 +32,21 @@ Hi, I'm Galal! I'm an AI researcher with a focus on developing innovative AI sol
 
 ## Social Metadata
 
-- **Gmail**: galalessam511@gmail.com
 - **LinkedIn:** [linkedin.com/in/galal-essam-0117b3315](https://www.linkedin.com/in/galal-essam-0117b3315/)
 - **GitHub:** [github.com/galalessam](https://github.com/galalessam)
 - **Twitter:** [twitter.com/galalessam511](https://twitter.com/galalessam511)
 - **Reddit:** [u/Severe-Commercial401](https://www.reddit.com/user/Severe-Commercial401)
 - **Medium:** [@galalessam511](https://medium.com/@galalessam511)
+
+</TabItem>
+
+<TabItem value="chat" label="Chat" default>
+
+:::info
+
+Coming soon...
+
+:::
+
+</TabItem>
+</Tabs>
