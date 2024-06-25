@@ -7,6 +7,7 @@ slug: elena
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 
 # Elena Petrova
 
@@ -42,11 +43,7 @@ Hi, I'm Elena! I'm a senior web3 developer specializing in blockchain technology
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
+<Chat id="elena" />
 
 </TabItem>
 </Tabs>

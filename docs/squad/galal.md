@@ -7,6 +7,7 @@ slug: galal
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 import { SocialIcon } from 'react-social-icons';
 
 # Galal Essam
@@ -43,11 +44,7 @@ Hi, I'm Galal! I'm an AI researcher with a focus on developing innovative AI sol
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
+<Chat id="galal" />
 
 </TabItem>
 </Tabs>

@@ -7,6 +7,7 @@ slug: sofia
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 
 # Sofia Rodriguez
 
@@ -41,11 +42,7 @@ Hi, I'm Sofia! I'm a creative UX/UI designer with a passion for creating intuiti
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
+<Chat id="sofia" />
 
 </TabItem>
 </Tabs>

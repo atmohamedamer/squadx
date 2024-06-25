@@ -7,6 +7,7 @@ slug: mei
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 
 # Mei Wong
 
@@ -40,11 +41,7 @@ Hi, I'm Mei! I'm an experienced product manager with a knack for turning ideas i
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
+<Chat id="mei" />
 
 </TabItem>
 </Tabs>

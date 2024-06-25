@@ -44,13 +44,7 @@ Hi, I'm Aisha! I'm a junior web3 developer with a keen interest in blockchain te
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
-
-<Chat />
+<Chat id="aisha" />
 
 </TabItem>
 </Tabs>

@@ -7,6 +7,7 @@ slug: lucas
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 
 # Lucas Müller
 
@@ -41,11 +42,7 @@ Hi, I'm Lucas! I'm a full-stack software engineer with expertise in developing s
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
+<Chat id="lucas" />
 
 </TabItem>
 </Tabs>

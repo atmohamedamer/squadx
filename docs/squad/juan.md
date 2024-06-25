@@ -7,6 +7,7 @@ slug: juan
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Chat from  '@site/src/components/Chat';
 
 # Juan Martinez
 
@@ -43,11 +44,7 @@ Hi, I'm Juan! I'm a web3 developer with a strong background in building decentra
 
 <TabItem value="chat" label="Chat" default>
 
-:::info
-
-Coming soon...
-
-:::
+<Chat id="juan" />
 
 </TabItem>
 </Tabs>
