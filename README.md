@@ -12,11 +12,8 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 $ yarn
 ```
 
-:::note
-
-Make sure you include `REACT_APP_OPEN_AI_API_KEY` in your `.env` file to access ChatGPT
-
-:::
+> [!IMPORTANT]
+> Make sure you include `REACT_APP_OPEN_AI_API_KEY` in your `.env` file to access ChatGPT
 
 ### Local Development
 
