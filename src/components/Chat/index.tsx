@@ -38,7 +38,7 @@ const Chat: React.FC<ChatProps> = ({ id }) => {
                 {
                     headers: {
                         'Content-Type': 'application/json',
-                        Authorization: `Bearer OPEN_AI_API_KEY`,
+                        Authorization: `Bearer ${process.env.REACT_APP_OPEN_AI_API_KEY}`,
                     },
                 }
             );
@@ -46,7 +46,7 @@ const Chat: React.FC<ChatProps> = ({ id }) => {
             // Update the conversation history with the response from ChatGPT
             setMessages([...messages, { role: 'user', content: input }, { role: 'assistant', content: response.data.choices[0].message.content }]);
         } catch (error) {
-            const msg = error.response.data.error.message || error.message;
+            const msg = error.response?.data?.error?.message || error.message;
             console.error('An error occurred:', error);
             setMessages([...messages, { role: 'user', content: input }, { role: 'assistant', content: msg }]);
         }
