@@ -1,6 +1,6 @@
 # Squad X
 
-A diverse AI-powered team of experts collaborating on innovative projects.
+A diverse AI-powered team collaborating on innovative projects.
 
 ---
 
