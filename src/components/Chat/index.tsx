@@ -9,6 +9,7 @@ type ChatProps = {
 
 const Chat: React.FC<ChatProps> = ({ id }) => {
 
+    const [disabled, setDisabled] = useState(false);
     const [input, setInput] = useState('');
     const [messages, setMessages] = useState([]);
     const prompts = Prompts[id] || [];
@@ -20,8 +21,16 @@ const Chat: React.FC<ChatProps> = ({ id }) => {
     const handleSendMessage = async () => {
         if (input.trim() === "") return;
 
+        const userInput = input.trim();
+
+        // Disable the send button while the assistant is responding
+        setDisabled(true);
+
+        // Clear the input field
+        setInput('');
+
         // Add user message to the messages list
-        setMessages([...messages, { role: 'user', content: input }]);
+        setMessages([...messages, { role: 'user', content: userInput }]);
 
         // Make a request to the ChatGPT API with the user input
         try {
@@ -51,8 +60,8 @@ const Chat: React.FC<ChatProps> = ({ id }) => {
             setMessages([...messages, { role: 'user', content: input }, { role: 'assistant', content: msg }]);
         }
 
-        // Clear the input field
-        setInput('');
+        // Re-enable the send button
+        setDisabled(false);
     };
 
     const handleKeyPress = (e) => {
@@ -79,7 +88,7 @@ const Chat: React.FC<ChatProps> = ({ id }) => {
                     className={styles.chatInput}
                     placeholder="Ask me anything..."
                 />
-                <button onClick={handleSendMessage} className={styles.chatSendButton}>Send</button>
+                <button disabled={disabled} onClick={handleSendMessage} className={styles.chatSendButton}>Send</button>
             </div>
         </div>
     );
