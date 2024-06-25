@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
 <TabItem value="overview" label="Overview" default>
 
-<img src="/img/lucas-muller.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
+<img src="/squadx/img/lucas-muller.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
 
 **Status**: ![Static Badge](https://img.shields.io/badge/Not%20Ready-no?color=ff0000)  
 **Date of Birth**: 22 Mar 1988  

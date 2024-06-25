@@ -14,7 +14,7 @@ import { SocialIcon } from 'react-social-icons';
 <Tabs>
 <TabItem value="overview" label="Overview" default>
 
-<img src="/img/galal-essam.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
+<img src="/squadx/img/galal-essam.jpeg" class="avatar__photo avatar__photo--xl margin-bottom--md" />
 
 **Status**: ![Static Badge](https://img.shields.io/badge/Ready-yes?color=0000ff)  
 **Date of Birth**: 5 Nov 1985  
